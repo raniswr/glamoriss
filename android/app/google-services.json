@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168288289012",
+    "project_id": "glamori-6cb6f",
+    "storage_bucket": "glamori-6cb6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168288289012:android:428890ec5d4af778911ea1",
+        "android_client_info": {
+          "package_name": "com.evetech.glamori"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTFGmeRpaS4K10xy8BNhANr8F4AItzcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
